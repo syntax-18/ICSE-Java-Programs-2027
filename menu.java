@@ -1,5 +1,5 @@
 import java.util.*;
-class manu
+class menu
 {
     int n,ch,nl;
     int c = 0;
